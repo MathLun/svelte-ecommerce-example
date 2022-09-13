@@ -38,6 +38,7 @@
 
     @media (max-width: 1200px) {
         header {
+            position: sticky;
             justify-content: center;
             padding: 10px;
         }
